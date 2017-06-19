@@ -1,10 +1,10 @@
-title: generic-physical-led-calcs
+title: Calculating resistor values for LEDs
 hero_image: images/banner.png
-description: generic-physical-led-calcs description
+description: Calculting resistor values for LEDs
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 published: false
 ingredient: false
 steps:
-  - title: Step one
+  - title: Calculating LED resistor values
