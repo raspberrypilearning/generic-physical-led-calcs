@@ -1,5 +1,3 @@
-## Calculating resistors for LEDs
-
 LEDs can be quite delicate. If you have too much current passing though them, then they are likely to **pop**. For this reason, you need to use a resistor with most LEDs to reduce the voltage going across them.
 
 When you buy LEDs you can normally find a data-sheet for them like [this one](https://www.rapidonline.com/pdf/55-1792.pdf). In the data-sheet you will see a section like this:

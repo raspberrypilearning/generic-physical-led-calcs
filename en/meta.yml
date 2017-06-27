@@ -1,10 +1,12 @@
 title: Calculating resistor values for LEDs
 hero_image: images/banner.png
 description: Calculting resistor values for LEDs
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url:
 theme: cc-prototype
 duration: 1
-published: false
-ingredient: false
+listed: false
+ingredient: true
+interests:
+technologies: "electronics"
 steps:
   - title: Calculating LED resistor values
