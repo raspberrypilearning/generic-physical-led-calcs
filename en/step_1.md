@@ -18,4 +18,4 @@ Put all these together:
 
 ![calculation](images/calc.gif)
 
-you come to an answer of around 53Ω. So you need a resistor pretty close to this value. Much higher than this an your LED will appear dim. Much lower and you risk destroying the LED. In this case, the nearest resistor value you are likely to find is 56Ω. But anything between 56Ω and about 100Ω would be fine.
+you come to an answer of around 53Ω. So you need a resistor pretty close to this value. Much higher than this and your LED will appear dim. Much lower and you risk destroying the LED. In this case, the nearest resistor value you are likely to find is 56Ω. But anything between 56Ω and about 100Ω would be fine.
