@@ -10,12 +10,12 @@ Now you can use Ohm's law to calculate what kind of resistor you need. Here is t
 
 ![formula](images/formula.gif)
 
-Vs stands for the voltage supply. On a Raspberry Pi that is 3.3V.
-Vf stands for the forward voltage of the LED, in this case 1.7V.
-If stands for the forward current of the LED, in this case 0.03A (30mA * 1000).
+- `Vs` stands for the voltage supply - on a Raspberry Pi that's 3.3V.
+- `Vf` stands for the forward voltage of the LED, in this case 1.7V.
+- `If` stands for the forward current of the LED, in this case 0.03A (30mA * 1000).
 
 Put all these together like this:
 
 ![calculation](images/calc.gif)
 
-You will come to an answer of around 53Ω, so you need a resistor that provides resistance of a value pretty close to this number. If its resistance is much higher, your LED will appear dim; if it's much lower, you risk damaging the LED. In this case, the resistor with the closest value you are likely to find is a 56Ω one, but any resistance between 56Ω and about 100Ω would be fine.
+You will come to an answer of around 53Ω, so you need a resistor that provides resistance of a value pretty close to this. If its resistance is much higher, your LED will appear dim; if it's much lower, you risk damaging the LED. In this case, the resistor with the closest value you are likely to find is a 56Ω one, but any resistance between 56Ω and about 100Ω would be fine.
